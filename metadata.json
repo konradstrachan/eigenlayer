@@ -1,7 +1,7 @@
 {
   "name": "EpsilonNode",
-  "website": "kilo.hopto.org/epsilon/",
+  "website": "http://kilo.hopto.org/epsilon/",
   "description": "Epsilon is a trusted and high availability PoS validator",
-  "logo": "kilo.hopto.org/epsilon/logo.png",
+  "logo": "http://kilo.hopto.org/epsilon/logo.png",
   "twitter":"konrads"
 }
